@@ -7,7 +7,7 @@ Note Taker app allows the user to write and save toes. This application will use
 <img width="500" alt="note taker snip" src="https://user-images.githubusercontent.com/70172286/108811361-fd7c6e80-7561-11eb-9f4c-1a26a475ef37.PNG">
 
 
-####The application features the following:
+#### The application features the following:
 
 GET Method - Should return the notes.html file.
 
