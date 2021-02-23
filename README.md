@@ -21,7 +21,8 @@ The following API routes should be created:
 
 
 #### GET /api/notes - Should read the db.json file and return all saved notes as JSON.
-Example: <img width="500" alt="note taker snip 2" src="https://user-images.githubusercontent.com/70172286/108811417-1be26a00-7562-11eb-8ad6-9317d43f44c7.PNG">
+Example:
+<img width="500" alt="note taker snip 2" src="https://user-images.githubusercontent.com/70172286/108811417-1be26a00-7562-11eb-8ad6-9317d43f44c7.PNG">
 
 
 #### POST /api/notes - Should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client.
