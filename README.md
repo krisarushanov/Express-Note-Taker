@@ -4,7 +4,7 @@ Note Taker app allows the user to write and save toes. This application will use
 
 ### Link: https://whispering-journey-21303.herokuapp.com/
 
-<img width="449" alt="note taker snip" src="https://user-images.githubusercontent.com/70172286/108811361-fd7c6e80-7561-11eb-9f4c-1a26a475ef37.PNG">
+<img width="500" alt="note taker snip" src="https://user-images.githubusercontent.com/70172286/108811361-fd7c6e80-7561-11eb-9f4c-1a26a475ef37.PNG">
 
 
 The application features the following:
@@ -21,7 +21,7 @@ The following API routes should be created:
 
 
 #### GET /api/notes - Should read the db.json file and return all saved notes as JSON.
-Example: <img width="264" alt="note taker snip 2" src="https://user-images.githubusercontent.com/70172286/108811417-1be26a00-7562-11eb-8ad6-9317d43f44c7.PNG">
+Example: <img width="500" alt="note taker snip 2" src="https://user-images.githubusercontent.com/70172286/108811417-1be26a00-7562-11eb-8ad6-9317d43f44c7.PNG">
 
 
 #### POST /api/notes - Should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client.
