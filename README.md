@@ -1,6 +1,6 @@
 # Express-Note-Taker
 ### Description
-Note Taker app allows the user to write and save toes. This application will use an express backend and save and retrieve note data from a JSON file.
+Note Taker app allows the user to write and save notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
 ### Link: https://whispering-journey-21303.herokuapp.com/
 
