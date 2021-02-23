@@ -1,15 +1,10 @@
 # Express-Note-Taker
 ### Description
-Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+Note Taker app allows the user to write and save toes. This application will use an express backend and save and retrieve note data from a JSON file.
 
 ### Link: https://whispering-journey-21303.herokuapp.com/
 
-
-The application frontend has already been created, it's your job to build the backend and connect the two.
-
-
-The following HTML routes should be created:
-
+The application features the following:
 
 ### GET /notes - Should return the notes.html file.
 
